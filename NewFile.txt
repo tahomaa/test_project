@@ -1,2 +1,2 @@
-Hello! It's a new file. 
-Welcome!!
+Hello! It's a new file.
+Welcome!
